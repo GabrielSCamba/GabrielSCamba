@@ -1,13 +1,15 @@
-Professional with 4 years of experience in process automation and in data analysis and engineering projects. Over the past 4 years, I have used English on a daily basis to communicate with colleagues from other regions, both within and outside my team. I began my career in the field of RPA (Robotic Process Automation), working closely with business units to map manual and operational processes that could be automated. This contributed to improvements in quality, speed, and consistency of operations, while freeing up time for employees to focus on more strategic tasks.
+Data professional with 2 years of experience as a Data Analyst, currently specializing in Data Engineering. Skilled in data integration, database modeling, and data visualization.
 
-As a Data Analyst, I’ve been responsible for identifying critical processes, translating them into relevant KPIs, and developing dashboards that support data-driven decision-making in performance meetings. I work across the entire data lifecycle — from data collection and transformation, to efficient storage and visualization — always aiming to deliver value to the business.
+Microsoft Certified (AZ-900, DP-900) and holder of a postgraduate degree in Data Engineering and Architecture. Experienced in collaborating with global teams, with strong communication skills and adaptability in multicultural environments.
 
-Currently, I am transitioning to Data Engineering, seeking to apply my hands-on experience in data processing and modeling to build scalable pipelines, integrate systems, and develop data-oriented architectures.
+As a Data Analyst, I am responsible for identifying critical processes, translating them into relevant KPIs, and developing dashboards that support decision-making in performance meetings. My work covers the entire data lifecycle — from data collection and transformation, through efficient storage, to visualization — always with a focus on generating business value.
 
-Technical Skills:
-Excel, Power BI, Python, SQL, Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Storage, Databricks, ETL/ELT, GitHub
+Currently, my goal is to work directly in Data Engineering, applying my practical experience in data processing and modeling to projects involving scalable pipelines, system integration, and data-driven architectures.
+
+Domains:
+Excel, Power BI, Python, SQL, Data Factory, Azure Synapse Analytics, Azure Data Lake Storage, Databricks, ETL/ELT, GitHub
 
 Certifications:
-✔ Postgraduation in Data Architecture and Engineering - XP Educação
-✔ AZ-900 – Microsoft Azure Fundamentals
-✔ DP-900 – Microsoft Azure Data Fundamentals
+✔ Postgraduate Degree in Data Engineering and Architecture – XP Education
+✔ AZ-900 – Azure Fundamentals
+✔ DP-900 – Azure Data Fundamentals
