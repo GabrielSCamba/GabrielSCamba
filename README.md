@@ -10,6 +10,7 @@ Domains:
 Excel, Power BI, Python, SQL, Data Factory, Azure Synapse Analytics, Azure Data Lake Storage, Databricks, ETL/ELT, GitHub
 
 Certifications:
+
 ✔ Postgraduate Degree in Data Engineering and Architecture – XP Education
 
 ✔ AZ-900 – Azure Fundamentals
